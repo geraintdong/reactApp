@@ -1,5 +1,5 @@
 {
-  "name": "test-react",
+  "name": "reactApp",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/geraintdong/test-react.git"
+    "url": "git+https://github.com/geraintdong/reactApp.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/geraintdong/test-react/issues"
+    "url": "https://github.com/geraintdong/reactApp/issues"
   },
-  "homepage": "https://github.com/geraintdong/test-react#readme",
+  "homepage": "https://github.com/geraintdong/reactApp#readme",
   "dependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
